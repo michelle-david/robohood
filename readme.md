@@ -10,7 +10,6 @@
  
 * this project may be accessed at https://michelle-david.github.io/robohood/
 
-
 ## specs
 
 * user input: user types a string of digits into the field on webpage (example input: "1)
