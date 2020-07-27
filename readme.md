@@ -7,7 +7,7 @@
 #### this web application adds a bit of robot magic to every day!
 
 ## access instructions / URL
-
+ 
 * this project may be accessed at https://michelle-david.github.io/robohood/
 
 ## specs
