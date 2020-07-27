@@ -12,6 +12,8 @@
 
 ## specs
 
+* user input: user types a string of digits into the field on webpage (example input: "1)
+
 * spec: the program returns a range of numbers from 0 to the user's inputted number (example input: "4", output: "0, 1, 2, 3, 4")
 
 * spec: if number contains the digit "1", all digits are replaced with the word string "Beep!" (example input: "3", output: "0, Beep!, 2, 3")
