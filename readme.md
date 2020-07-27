@@ -8,7 +8,7 @@
 
 ## access instructions / URL
 
-* this project may be access at https://michelle-david.github.io/survey/
+* this project may be accessed at https://michelle-david.github.io/robohood/
 
 ## specs
 
